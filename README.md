@@ -7,7 +7,6 @@ analyzed Instacart's Grocery Basket data to identify sales patterns.
 
 ![Instacart Company Logo of a carrot](https://www.google.com/imgres?imgurl=https://whatpixel.com/images/2016/01/instacart-logo-redesign-rebrand-2016.jpg&imgrefurl=https://whatpixel.com/instacart-new-logo-2016/&h=200&w=720&tbnid=bmoSwMnzZKrQ8M&source=sa.im&tbnh=118&tbnw=426&usg=AI4_-kRrn3zAoJAWXVYYN-RkzkE99hQ90A&vet=1&docid=JUWovoAqaaZldM)
 
-
 ## Objective
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, 
